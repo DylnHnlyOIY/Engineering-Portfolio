@@ -1,7 +1,4 @@
-# My Portfolio
-Repo for Projects and Experiments
+# Engineering Portfolio
+Past Projects, designs, and Comcepts
 
-## Engineering
-
-
-## Music
+## Designs
