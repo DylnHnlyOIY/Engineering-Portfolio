@@ -14,7 +14,7 @@
 
 ## Projects
 <details><summary>Snare Drum Phone & Camera Attachment V1</summary>
-<img src="Snare Attachment.png" width="750">
+<img src="Snare Attachment.png" width="500">
 </details>
 <details><summary>Sphericons</summary>
 <img src="Sphericons.png" width="1000">
