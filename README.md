@@ -4,13 +4,13 @@
 ## 3D Designs via Onshape
 
 <details><summary>Doctor Who Sonic Screwsdrivers <img src="DrWhoTARDIS.png" width="10"></summary>
-<img src="Doctor Who.png" width="1000">
+<img src="Doctor Who.png" width="750">
 </details>
 <details><summary>Sphericons <img src="Sphericon2.png" width="15"></summary>
-<img src="Sphericons.png" width="1000">
+<img src="Sphericons.png" width="750">
 </details>
 <details><summary>Snare Drum Trophy & System Blue Replica 🥁</summary>
-<img src="Snare Drum.png" width="1000">
+<img src="Snare Drum.png" width="750">
 </details>
 
 ## Most Recent Projects
