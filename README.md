@@ -23,11 +23,11 @@
 - [9th Doctor's](https://cvilleschools.onshape.com/documents/29e6a0cb262464120fcfd941/w/1cceba70197076f9be485bcb/e/d4c90abe3bb668475efd92c5)
 - [10th Doctor's](https://cvilleschools.onshape.com/documents/c8dcb1949227e1f387f9d663/w/2be866e5b85906407fb35b3f/e/d631d37ad02433839faaedd2)
 - [11th Doctor's](https://cvilleschools.onshape.com/documents/1c710018c89fcb716df0b286/w/f38f1ada1442de1311e976ff/e/f6944ab9ccfd1551354115d2)
-- [12th Doctor's](https://cvilleschools.onshape.com/documents/a2151fb2690551bc6227931d/w/57b1698d8b48f226fb82d689/e/c68c5703a13fd22a9cdc44fe) 
-</details>
+- [12th Doctor's](https://cvilleschools.onshape.com/documents/a2151fb2690551bc6227931d/w/57b1698d8b48f226fb82d689/e/c68c5703a13fd22a9cdc44fe)
 
 ________________________________________________________________________________________________________________________________________
 
+</details>
 <details><summary>Sphericons <img src="Sphericon2.png" width="15"></summary>
 <img src="Sphericons.png" width="900">
  
