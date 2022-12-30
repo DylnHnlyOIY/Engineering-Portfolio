@@ -40,17 +40,18 @@ ________________________________________________________________________________
 - [HexaSphericon](https://cvilleschools.onshape.com/documents/dada66407e33fac9508f6749/w/0351b0b5ada052fcd20dc655/e/04a22147fec5fc0aa76e0ee5)
 - [OctaSphericon](https://cvilleschools.onshape.com/documents/2e12f09ad737dab65cc6e293/w/ca87571d705be95fb0c99152/e/780259fe2d76189f51255d31)
 - [Alt. Sphericon Design Concept](https://cvilleschools.onshape.com/documents/729cfb01d2fb0e97ebe00371/w/fbf67e1b6065f9c11801c24d/e/0d94ec79963bb53e99299732)
+ 
+ ________________________________________________________________________________________________________________________________________
+ 
 </details>
-
-________________________________________________________________________________________________________________________________________
-
 <details><summary>Snare Drum Trophy & System Blue Replica 🥁</summary>
 <img src="Snare Drum.png" width="900">
  
 - [System Blue Snare Trophy](https://cvilleschools.onshape.com/documents/221b04262ae5d6cda3d83769/w/423a948d07c3116b4d8de6de/e/f6de8c8385a0bb81215d60f1)
-</details>
-
+ 
 ________________________________________________________________________________________________________________________________________
+ 
+</details>
 
 ## Most Recent Projects
 <details><summary>Snare Drum Phone & Camera Attachment V1 📱🥁</summary>
