@@ -5,6 +5,8 @@
 
 <details><summary>Doctor Who Sonic Screwsdrivers <img src="DrWhoTARDIS.png" width="10"></summary>
 <img src="Doctor Who.png" width="900">
+  
+I designed these 3D models based on classic science-fiction programme, "Doctor Who". These were the products of me transitioning from using the C.A.D. Solfware Solidworks to Onshape, and I used this as a way to teach myself how to use Onshape.  
 </details>
 <details><summary>Sphericons <img src="Sphericon2.png" width="15"></summary>
 <img src="Sphericons.png" width="900">
