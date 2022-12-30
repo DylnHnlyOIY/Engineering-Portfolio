@@ -24,3 +24,9 @@
 </details>
 
 ## Concepts I'd like to experiment with in the future
+
+- Enchancing Drum Technology & Equipment
+- Utilitarian Art
+- Prop & Replica Making
+- Soft Robotics
+- Cost Effective Prosthetics & Mobility Aids
