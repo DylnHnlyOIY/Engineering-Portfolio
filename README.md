@@ -50,11 +50,12 @@ ________________________________________________________________________________
  
  ### Description
  
-This design is inspired by Blue Devils' "[System Blue Snare Trophy](https://www.bluedevils.org/products/system-blue/)" snare drum. The aim was to create a to-scale replica of the drum as well as a trophy design. This project allowed me to use my test CAD ability (at the time) and ignited my interest in designing percussion instruments & tools.
+This design is inspired by Blue Devils' "[System Blue](https://www.bluedevils.org/products/system-blue/)" snare drum. The aim was to create a to-scale replica of the drum as well as a trophy design. This project allowed me to use my test CAD ability (at the time) and ignited my interest in designing percussion instruments & tools.
 
 ### Links
 - [System Blue Snare Trophy](https://cvilleschools.onshape.com/documents/221b04262ae5d6cda3d83769/w/423a948d07c3116b4d8de6de/e/f6de8c8385a0bb81215d60f1)
- 
+- [Reference for Design]( https://systemblue.org/percussion/professional/)
+
 ________________________________________________________________________________________________________________________________________
  
 </details>
