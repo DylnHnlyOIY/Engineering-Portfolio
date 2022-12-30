@@ -13,3 +13,12 @@
 </details>
 
 ## Projects
+<details><summary>Doctor Who Sonic Screwsdrivers</summary>
+<img src="Doctor Who.png" width="1000">
+</details>
+<details><summary>Sphericons</summary>
+<img src="Sphericons.png" width="1000">
+</details>
+<details><summary>Snare Drum Trophy & System Blue Replica</summary>
+<img src="Snare Drum.png" width="1000">
+</details>
