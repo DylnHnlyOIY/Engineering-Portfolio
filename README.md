@@ -4,6 +4,5 @@
 ## 3D Designs
 
 <img src="Doctor Who.png"/>
-<img src="Snare Drum.png"/>
 <img src="Sphericons.png"/>
-<img src="Little Nightmares.png"/>
+<img src="Snare Drum.png"/>
