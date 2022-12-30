@@ -58,6 +58,9 @@ ________________________________________________________________________________
 
 - [Phone Holder](https://cvilleschools.onshape.com/documents/a13c4770759a07f50d643601/w/ba4fcc164aff0949461ae9df/e/2820d4fc6e2450f7e846baa4)
 </details>
+
+________________________________________________________________________________________________________________________________________
+
 <details><summary>Robotic Arm w/ Flex Sencors 🦾</summary>
 <img src="Robotic Arm.png" width="500">
 <details><summary>Robotic Arm Code & C.A.D.</summary>
@@ -139,6 +142,9 @@ The purpose of this project was to construct a flex sensor operated Robotic Arm 
 - [Original Github Link](https://github.com/DylnH/Robotic-Hand)
  
 </details>
+ 
+ ________________________________________________________________________________________________________________________________________
+
 <details><summary>Laser Cutting, Etching & Lichtenberg burning ⚡</summary>
 <img src="Laser Cutter.jpg" width="750">
 
