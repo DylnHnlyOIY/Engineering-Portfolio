@@ -2,10 +2,10 @@
 #### Here are some of cool stuff that I've been working on.💡
 ## 3D Designs via Onshape
 
-<details><summary>Doctor Who Sonic Screwsdrivers <img src="DrWhoTARDIS.png" width="15"></summary>
+<details><summary>Doctor Who Sonic Screwsdrivers <img src="DrWhoTARDIS.png" width="10"></summary>
 <img src="Doctor Who.png" width="1000">
 </details>
-<details><summary>Sphericons <img src="Sphericon2.png" width="10"></summary>
+<details><summary>Sphericons <img src="Sphericon2.png" width="15"></summary>
 <img src="Sphericons.png" width="1000">
 </details>
 <details><summary>Snare Drum Trophy & System Blue Replica 🥁</summary>
