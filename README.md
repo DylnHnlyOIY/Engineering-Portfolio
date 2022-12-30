@@ -151,10 +151,10 @@ The purpose of this project was to construct a flex sensor operated Robotic Arm 
 - [Lichtenberg Ying & Yang](https://cvilleschools.onshape.com/documents/2ab7a38df7d5208ccd618aef/w/beba64fce6e7ec1388fe2998/e/bdeb1cd44200468047b4a1dc)
 - [志安](https://cvilleschools.onshape.com/documents/27b4753e7467629397baaf20/w/e345d744fa2b0125c1c10a95/e/bd2b7cdfb00b7aeabba79946)
 - [Constellation](https://cvilleschools.onshape.com/documents/27b4753e7467629397baaf20/w/e345d744fa2b0125c1c10a95/e/bd2b7cdfb00b7aeabba79946)
-</details>
-
-________________________________________________________________________________________________________________________________________
  
+ ________________________________________________________________________________________________________________________________________
+ 
+</details>
 ## Concepts I'd Like to Experiment With in the Future ⏰
 
 - Designing Drum Technology & Equipment
