@@ -26,7 +26,7 @@
 
 ## Concepts I'd Like to Experiment With in the Future
 
-- Enchancing Drum Technology & Equipment
+- Designing Drum Technology & Equipment
 - Utilitarian Art
 - Prop & Replica Making
 - Soft Robotics
