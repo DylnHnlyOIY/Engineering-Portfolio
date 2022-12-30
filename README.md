@@ -1,7 +1,7 @@
 # Dylan Hensley's Engineering Portfolio
 #### Here are some of the cool stuff that I've been working on.💡
 
-## 3D Designs via Onshape <img src="Onshape.png" width="30">
+## 3D Designs via Onshape <img src="Onshape.png" width="25">
 
 
 <details><summary>Doctor Who Sonic Screwsdrivers <img src="DrWhoTARDIS.png" width="10"></summary>
@@ -61,7 +61,7 @@ ________________________________________________________________________________
  
 </details>
 
-## Most Recent Projects
+## Most Recent Projects <img src="Gears.png" width="25">
 <details><summary>Snare Drum Phone & Camera Attachment V1 📱🥁</summary>
 <img src="Snare Attachment.png" width="500">
  
