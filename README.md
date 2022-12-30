@@ -13,7 +13,7 @@
 </details>
 
 ## Projects
-<details><summary>Doctor Who Sonic Screwsdrivers</summary>
+<details><summary>Snare Drum Phone & Camera Attachment V1</summary>
 <img src="Snare Attachment.png" width="1000">
 </details>
 <details><summary>Sphericons</summary>
