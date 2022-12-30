@@ -1,12 +1,14 @@
 # Dylan Hensley's Engineering Portfolio
-#### Here are some of the cool stuff that I've been working on.💡
+### Here are some of the cool stuff that I've been working on.💡
 
 ## 3D Designs via Onshape
 
 <details><summary>Doctor Who Sonic Screwsdrivers <img src="DrWhoTARDIS.png" width="10"></summary>
 <img src="Doctor Who.png" width="900">
 
-##### Based on the iconic science-fiction show "Doctor Who," I created these 3D models of my favorite Sonic Screwdrivers and the "T.A.R.D.I.S." as depicted. These were the outcomes of my transition from using Solidworks to Onshape. I utilized this project to teach myself how to use a brand new C.A.D. Software, and to design things that I love.
+#### Based on the iconic science-fiction show "Doctor Who," I created these 3D models of my favorite Sonic Screwdrivers and the "T.A.R.D.I.S." as depicted. These were the outcomes of my transition from using Solidworks to Onshape. I utilized this project to teach myself how to use a brand new C.A.D. Software, and to design things that I love.
+ 
+ #### Links
 
 - [TARDIS](https://cvilleschools.onshape.com/documents/2ab7a38df7d5208ccd618aef/w/beba64fce6e7ec1388fe2998/e/bdeb1cd44200468047b4a1dc)
 - [2nd Doctor's](https://cvilleschools.onshape.com/documents/b54558251b5b275bce93d561/w/e507a7c13202b057af485c86/e/eac1212738f6a088ae0ca751)
