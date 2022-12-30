@@ -52,8 +52,7 @@
 </details>
 <details><summary>Robotic Arm w/ Flex Sencors 🦾</summary>
 <img src="Robotic Arm.png" width="500">
- 
-##### <details><summary>Robotic Arm Code</summary>
+<details><summary>Robotic Arm Code</summary>
  
 ``` arduino
 #include <Servo.h> // HEY!!!... here's a servo
@@ -121,8 +120,7 @@ void loop()
   }
 ```
 </details>
- 
-##### [- Final Design](https://cvilleschools.onshape.com/documents/e2edc0296736b251a4e3fe74/w/817a81a4a4728dc8bb2cad43/e/76581a513e1b4ba1cefbcda2)
+#### [- Final Design](https://cvilleschools.onshape.com/documents/e2edc0296736b251a4e3fe74/w/817a81a4a4728dc8bb2cad43/e/76581a513e1b4ba1cefbcda2)
 </details>
 <details><summary>Laser Cutting, Etching & Lichtenberg burning ⚡</summary>
 <img src="Laser Cutter.jpg" width="750">
