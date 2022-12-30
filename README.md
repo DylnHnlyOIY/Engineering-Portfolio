@@ -1,5 +1,6 @@
 # Dylan Hensley's Engineering Portfolio
-#### Here are some of cool stuff that I've been working on.💡
+#### Here are some of the cool stuff that I've been working on.💡
+
 ## 3D Designs via Onshape
 
 <details><summary>Doctor Who Sonic Screwsdrivers <img src="DrWhoTARDIS.png" width="10"></summary>
@@ -23,7 +24,7 @@
 <img src="Laser Cutter.jpg" width="750">
 </details>
 
-## Concepts I'd like to experiment with in the future
+## Concepts I'd Like to Experiment With in the Future
 
 - Enchancing Drum Technology & Equipment
 - Utilitarian Art
