@@ -122,7 +122,15 @@ void loop()
   }
 ```
 </details>
-  
+
+### Description
+
+The purpose of this project was to construct a flex sensor operated Robotic Arm that could replicate an individual's hand motion. The user could wear a glove with the flex sensors connected, and the robotic arm would perform the same functions as the user. The concept was that when fully developed, it could be utilized for a variety of jobs like prosthetic use, long-distance surgery, handling dangerous chemicals, and so on.
+
+### Links
+- [Original Github Link](https://github.com/DylnH/Robotic-Hand)
+- [Code & C.A.D.](https://github.com/DylnH/Robotic-Hand)
+
 </details>
 <details><summary>Laser Cutting, Etching & Lichtenberg burning ⚡</summary>
 <img src="Laser Cutter.jpg" width="750">
