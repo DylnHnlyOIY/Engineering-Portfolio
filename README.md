@@ -3,8 +3,8 @@
 
 ## 3D Designs
 
-<img src="Doctor Who.png" width="2000">
-<img src="Sphericons.png" width="2000">
-<img src="Snare Drum.png" width="2000">
+<img src="Doctor Who.png" width="1000">
+<img src="Sphericons.png" width="1000">
+<img src="Snare Drum.png" width="1000">
 
 ## Projects
