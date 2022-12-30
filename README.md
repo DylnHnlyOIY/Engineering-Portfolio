@@ -45,6 +45,7 @@ ________________________________________________________________________________
  
 </details>
 <details><summary>Snare Drum Trophy & System Blue Replica 🥁</summary>
+ 
 <img src="Snare Drum.png" width="900">
  
 - [System Blue Snare Trophy](https://cvilleschools.onshape.com/documents/221b04262ae5d6cda3d83769/w/423a948d07c3116b4d8de6de/e/f6de8c8385a0bb81215d60f1)
