@@ -3,4 +3,4 @@
 
 ## 3D Designs
 
-https://github.com/DylnHnlyOIY/Engineering-Portfolio/blob/main/Doctor%20Who.png?raw=true
+<img src="Doctor Who.png"/>
