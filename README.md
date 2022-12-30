@@ -19,6 +19,6 @@
 <details><summary>Robotic Arm w/ Flex Sencors</summary>
 <img src="Robotic Arm.png" width="500">
 </details>
-<details><summary>Snare Drum Trophy & System Blue Replica</summary>
-<img src="Snare Drum.png" width="1000">
+<details><summary>Laser Cutting, Etching & Lichtenberg burning.jpg</summary>
+<img src="Laser Cut.jpg" width="1000">
 </details>
