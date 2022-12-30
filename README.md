@@ -155,6 +155,7 @@ The purpose of this project was to construct a flex sensor operated Robotic Arm 
  ________________________________________________________________________________________________________________________________________
  
 </details>
+ 
 ## Concepts I'd Like to Experiment With in the Future ⏰
 
 - Designing Drum Technology & Equipment
