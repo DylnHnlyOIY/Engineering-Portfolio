@@ -16,8 +16,8 @@
 <details><summary>Snare Drum Phone & Camera Attachment V1</summary>
 <img src="Snare Attachment.png" width="500">
 </details>
-<details><summary>Sphericons</summary>
-<img src="Sphericons.png" width="1000">
+<details><summary>Robotic Arm w/ Flex Sencors</summary>
+<img src="Robotic Arm.png" width="1000">
 </details>
 <details><summary>Snare Drum Trophy & System Blue Replica</summary>
 <img src="Snare Drum.png" width="1000">
