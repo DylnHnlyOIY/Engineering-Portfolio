@@ -7,7 +7,7 @@
 <img src="Doctor Who.png" width="900">
 
 ### Description
-##### Based on the iconic science-fiction show "Doctor Who," I created these 3D models of my favorite Sonic Screwdrivers and the "T.A.R.D.I.S." as depicted. These were the outcomes of my transition from using [Solidworks](https://www.solidworks.com) to [Onshape](https://www.onshape.com/en/). I utilized this project to teach myself how to use a brand new C.A.D. Software, and to design things that I love.
+##### Based on the iconic science-fiction show "[Doctor Who](https://www.doctorwho.tv)," I created these 3D models of my favorite Sonic Screwdrivers and the "T.A.R.D.I.S." as depicted. These were the outcomes of my transition from using [Solidworks](https://www.solidworks.com) to [Onshape](https://www.onshape.com/en/). I utilized this project to teach myself how to use a brand new C.A.D. Software, and to design things that I love.
  
 ### Links
 
