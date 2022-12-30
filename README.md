@@ -20,5 +20,5 @@
 <img src="Robotic Arm.png" width="500">
 </details>
 <details><summary>Laser Cutting, Etching & Lichtenberg burning.jpg</summary>
-<img src="Laser Cutter.jpg" width="1000">
+<img src="Laser Cutter.jpg" width="750">
 </details>
