@@ -5,7 +5,7 @@
 <details><summary>Doctor Who Sonic Screwsdrivers <img src="DrWhoTARDIS.png" width="10"></summary>
 <img src="Doctor Who.png" width="1000">
 </details>
-<details><summary>Sphericons</summary>
+<details><summary>Sphericons <img src="Sphericon2.png" width="10"></summary>
 <img src="Sphericons.png" width="1000">
 </details>
 <details><summary>Snare Drum Trophy & System Blue Replica 🥁</summary>
