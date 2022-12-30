@@ -41,14 +41,14 @@
 <details><summary>Snare Drum Trophy & System Blue Replica 🥁</summary>
 <img src="Snare Drum.png" width="900">
  
-- [TARDIS](https://cvilleschools.onshape.com/documents/2ab7a38df7d5208ccd618aef/w/beba64fce6e7ec1388fe2998/e/bdeb1cd44200468047b4a1dc)
+- [System Blue Snare Trophy](https://cvilleschools.onshape.com/documents/221b04262ae5d6cda3d83769/w/423a948d07c3116b4d8de6de/e/f6de8c8385a0bb81215d60f1)
 </details>
 
 ## Most Recent Projects
 <details><summary>Snare Drum Phone & Camera Attachment V1 📱🥁</summary>
 <img src="Snare Attachment.png" width="500">
 
-- [TARDIS](https://cvilleschools.onshape.com/documents/2ab7a38df7d5208ccd618aef/w/beba64fce6e7ec1388fe2998/e/bdeb1cd44200468047b4a1dc)
+- [Phone Holder](https://cvilleschools.onshape.com/documents/a13c4770759a07f50d643601/w/ba4fcc164aff0949461ae9df/e/2820d4fc6e2450f7e846baa4)
 </details>
 <details><summary>Robotic Arm w/ Flex Sencors 🦾</summary>
 <img src="Robotic Arm.png" width="500">
@@ -58,9 +58,9 @@
 <details><summary>Laser Cutting, Etching & Lichtenberg burning ⚡</summary>
 <img src="Laser Cutter.jpg" width="750">
 
-- [TARDIS](https://cvilleschools.onshape.com/documents/2ab7a38df7d5208ccd618aef/w/beba64fce6e7ec1388fe2998/e/bdeb1cd44200468047b4a1dc)
-- [TARDIS](https://cvilleschools.onshape.com/documents/2ab7a38df7d5208ccd618aef/w/beba64fce6e7ec1388fe2998/e/bdeb1cd44200468047b4a1dc)
-- [TARDIS](https://cvilleschools.onshape.com/documents/2ab7a38df7d5208ccd618aef/w/beba64fce6e7ec1388fe2998/e/bdeb1cd44200468047b4a1dc)
+- [Lichtenberg Ying & Yang](https://cvilleschools.onshape.com/documents/2ab7a38df7d5208ccd618aef/w/beba64fce6e7ec1388fe2998/e/bdeb1cd44200468047b4a1dc)
+- [志安](https://cvilleschools.onshape.com/documents/27b4753e7467629397baaf20/w/e345d744fa2b0125c1c10a95/e/bd2b7cdfb00b7aeabba79946)
+- [Constellation](https://cvilleschools.onshape.com/documents/27b4753e7467629397baaf20/w/e345d744fa2b0125c1c10a95/e/bd2b7cdfb00b7aeabba79946)
 </details>
 
 ## Concepts I'd Like to Experiment With in the Future
