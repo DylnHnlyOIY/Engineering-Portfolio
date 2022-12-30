@@ -52,6 +52,7 @@
 </details>
 <details><summary>Robotic Arm w/ Flex Sencors 🦾</summary>
 <img src="Robotic Arm.png" width="500">
+ 
 ##### <details><summary>Robotic Arm Code</summary>
  
 ``` arduino
