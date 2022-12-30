@@ -61,7 +61,7 @@ ________________________________________________________________________________
  
 </details>
 
-## Most Recent Projects <img src="Gears.png" width="25">
+## Most Recent Projects <img src="Gears.png" width="30">
 <details><summary>Snare Drum Phone & Camera Attachment V1 📱🥁</summary>
 <img src="Snare Attachment.png" width="500">
  
