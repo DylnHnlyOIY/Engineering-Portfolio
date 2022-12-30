@@ -63,7 +63,9 @@ ________________________________________________________________________________
 ## Most Recent Projects
 <details><summary>Snare Drum Phone & Camera Attachment V1 📱🥁</summary>
 <img src="Snare Attachment.png" width="500">
-
+ 
+### Description
+Many drummers across the world use Go Pro cameras to document their performances. Because I know many individuals who cannot afford to purchase a costly video recording gear, I created a Drum attachment that allows anyone to record a performance on their phone. The phone holder is angled similarly to a GoPro, allowing anyone to film a POV view of oneself performing without spending a fortune. V1 (the version displayed) is already being improved, with the camera being moved closer to the center and other minor modifications.
 - [Phone Holder](https://cvilleschools.onshape.com/documents/a13c4770759a07f50d643601/w/ba4fcc164aff0949461ae9df/e/2820d4fc6e2450f7e846baa4)
  
  ________________________________________________________________________________________________________________________________________
