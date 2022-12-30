@@ -1,7 +1,8 @@
 # Dylan Hensley's Engineering Portfolio
 #### Here are some of the cool stuff that I've been working on.💡
 
-## 3D Designs via Onshape
+## 3D Designs via Onshape <img src=""Onshape.png" width="10">
+
 
 <details><summary>Doctor Who Sonic Screwsdrivers <img src="DrWhoTARDIS.png" width="10"></summary>
 <img src="Doctor Who.png" width="900">
