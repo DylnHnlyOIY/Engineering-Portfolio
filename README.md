@@ -8,7 +8,7 @@
 <details><summary>Sphericons</summary>
 <img src="Sphericons.png" width="1000">
 </details>
-<details><summary>Snare Drum Trophy & System Blue Replica</summary> 🥁
+<details><summary>Snare Drum Trophy & System Blue Replica</summary>🥁
 <img src="Snare Drum.png" width="1000">
 </details>
 
