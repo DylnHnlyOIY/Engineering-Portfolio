@@ -19,6 +19,6 @@
 <details><summary>Robotic Arm w/ Flex Sencors</summary>
 <img src="Robotic Arm.png" width="500">
 </details>
-<details><summary>Laser Cutting, Etching & Lichtenberg burning.jpg</summary>
+<details><summary>Laser Cutting, Etching & Lichtenberg burning</summary>
 <img src="Laser Cutter.jpg" width="750">
 </details>
