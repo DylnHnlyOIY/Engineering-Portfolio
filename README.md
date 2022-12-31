@@ -1,5 +1,5 @@
 # Dylan Hensley's Engineering Portfolio
-#### Here are some of the cool stuff that I've been working on.💡
+#### Welcome to My Engineering Portfolio! Here are some of the cool stuff that I've been working on.💡
 
 <details><summary> ⬅ Click Me</summary>
 
