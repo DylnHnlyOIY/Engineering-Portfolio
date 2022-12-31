@@ -182,10 +182,10 @@ These are some of the latest laser cutting and engraving experiments I've done. 
 
 
 ## Contact Info
-<img src="Picture.jpg" width="125">
+<img src="Picture.jpg" width="100">
 
- - dylnhnlyoiy@gmail.com
- - dhensle63@charlottesvilleschools.org
- - (510)387-1662
+###### - dhnlyoiy@gmail.com
+###### - dhensle63@charlottesvilleschools.org
+###### - (510)387-1662
  
 
