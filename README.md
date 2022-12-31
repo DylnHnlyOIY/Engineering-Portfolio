@@ -179,3 +179,8 @@ These are some of the latest laser cutting and engraving experiments I've done. 
 - Prop & Replica Making
 - Soft Robotics
 - Cost Effective Prosthetics & Mobility Aids
+
+
+## Info
+<img src="Picture.jpg" width="2000">
+
