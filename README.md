@@ -37,9 +37,9 @@ A [Sphericon](https://www.instructables.com/3D-Printed-Sphereicon) is a three-di
  
  ### Links
  
-- [Sphericon](https://cvilleschools.onshape.com/documents/25778600526ac8ae216fc98f/w/326e3f9e4728bfccb47eff6d/e/4421681a61ca46ae50616060)
-- [HexaSphericon](https://cvilleschools.onshape.com/documents/dada66407e33fac9508f6749/w/0351b0b5ada052fcd20dc655/e/04a22147fec5fc0aa76e0ee5)
-- [OctaSphericon](https://cvilleschools.onshape.com/documents/2e12f09ad737dab65cc6e293/w/ca87571d705be95fb0c99152/e/780259fe2d76189f51255d31)
+- [Modified Sphericon](https://cvilleschools.onshape.com/documents/25778600526ac8ae216fc98f/w/326e3f9e4728bfccb47eff6d/e/4421681a61ca46ae50616060)
+- [Modified HexaSphericon](https://cvilleschools.onshape.com/documents/dada66407e33fac9508f6749/w/0351b0b5ada052fcd20dc655/e/04a22147fec5fc0aa76e0ee5)
+- [Modified OctaSphericon](https://cvilleschools.onshape.com/documents/2e12f09ad737dab65cc6e293/w/ca87571d705be95fb0c99152/e/780259fe2d76189f51255d31)
 - [Alt. Sphericon Design Concept](https://cvilleschools.onshape.com/documents/729cfb01d2fb0e97ebe00371/w/fbf67e1b6065f9c11801c24d/e/0d94ec79963bb53e99299732)
  
  ________________________________________________________________________________________________________________________________________
