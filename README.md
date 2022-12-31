@@ -14,7 +14,6 @@
 Based on the iconic science-fiction show "[Doctor Who](https://www.doctorwho.tv)," I created these 3D models of my favorite Sonic Screwdrivers and the "T.A.R.D.I.S." as depicted. These were the outcomes of my transition from using [Solidworks](https://www.solidworks.com) to [Onshape](https://www.onshape.com/en/). I utilized this project to teach myself how to use a brand new C.A.D. Software, and to design things that I love.
  
 ### Links
-
 - [TARDIS](https://cvilleschools.onshape.com/documents/2ab7a38df7d5208ccd618aef/w/beba64fce6e7ec1388fe2998/e/bdeb1cd44200468047b4a1dc)
 - [2nd Doctor's](https://cvilleschools.onshape.com/documents/b54558251b5b275bce93d561/w/e507a7c13202b057af485c86/e/eac1212738f6a088ae0ca751)
 - [3rd Doctor's](https://cvilleschools.onshape.com/documents/779596b1d1d432dcc2af3a03/w/d04b260e992902aff898d69d/e/ab70ad52fa4adb6e194f76f8)
@@ -39,7 +38,6 @@ ________________________________________________________________________________
 A [Sphericon](https://www.instructables.com/3D-Printed-Sphereicon) is a three-dimensional object with a continuous surface, two congruent semicircular edges, and four vertices defining a square. You may, however, experiment with the shape of a Sphericon and modify the number of vertices. This allows you to create a variety of fun and wacky variants.
  
  ### Links
- 
 - [Modified Sphericon](https://cvilleschools.onshape.com/documents/25778600526ac8ae216fc98f/w/326e3f9e4728bfccb47eff6d/e/4421681a61ca46ae50616060)
 - [Modified HexaSphericon](https://cvilleschools.onshape.com/documents/dada66407e33fac9508f6749/w/0351b0b5ada052fcd20dc655/e/04a22147fec5fc0aa76e0ee5)
 - [Modified OctaSphericon](https://cvilleschools.onshape.com/documents/2e12f09ad737dab65cc6e293/w/ca87571d705be95fb0c99152/e/780259fe2d76189f51255d31)
@@ -53,7 +51,6 @@ A [Sphericon](https://www.instructables.com/3D-Printed-Sphereicon) is a three-di
 <img src="Snare Drum.png" width="900">
  
  ### Description
- 
 This design is inspired by Blue Devils' "[System Blue](https://www.bluedevils.org/products/system-blue/)" snare drum. The aim was to create a to-scale replica of the drum as well as a trophy design. This project allowed me to use my test CAD ability (at the time) and ignited my interest in designing percussion instruments & tools.
 
 ### Links
@@ -69,8 +66,11 @@ ________________________________________________________________________________
 <img src="Snare Attachment.png" width="500">
  
 ### Description
-Many drummers across the world use Go Pro cameras to document their performances. Because I know many individuals who cannot afford to purchase a costly video recording gear, I created a Drum attachment that allows anyone to record a performance on their phone. The phone holder is angled similarly to a GoPro, allowing anyone to film a POV view of oneself performing without spending a fortune. V1 (the version displayed) is already being improved, with the camera being moved closer to the center and other minor modifications.
-- [Phone Holder](https://cvilleschools.onshape.com/documents/a13c4770759a07f50d643601/w/ba4fcc164aff0949461ae9df/e/2820d4fc6e2450f7e846baa4)
+Many drummers across the world use Go Pro cameras to document their performances. Because I know many individuals who cannot afford to purchase a costly video recording gear, I created a Drum attachment that allows anyone to record a performance on their phone. The phone holder is angled similarly to a GoPro, allowing anyone to film a POV view of oneself performing without spending a fortune. V1 (the version displayed) is already being improved, with the camera being moved closer to the center and angle lower to show off more of the drum & hands of the player.
+
+### Links
+- [Phone Mount](https://cvilleschools.onshape.com/documents/a13c4770759a07f50d643601/w/ba4fcc164aff0949461ae9df/e/2820d4fc6e2450f7e846baa4)
+- [Test Video](https://youtu.be/9EmNJnOfamQ)
  
  ________________________________________________________________________________________________________________________________________
  
@@ -149,7 +149,6 @@ void loop()
 </details>
 
 ### Description
-
 The purpose of this project was to construct a flex sensor operated Robotic Arm that could replicate an individual's hand motion. The user could wear a glove with the flex sensors connected, and the robotic arm would perform the same functions as the user. The concept was that when fully developed, it could be utilized for a variety of jobs like prosthetic use, long-distance surgery, handling dangerous chemicals, and so on.
 
 ### Links
@@ -164,6 +163,7 @@ The purpose of this project was to construct a flex sensor operated Robotic Arm 
  ### Description
 These are some of the latest laser cutting and engraving experiments I've done. These projects have pushed me to use my artistic side and to prioritize aesthetics above utility. By doing these, I was able to explore with different spray painting methods, Lichtenberg burning, and more sophisticated laser cutting techniques, which was a lot of fun. All of the pieces shown, were either gifted to someone else or purchased.
 
+### Links
 - [Lichtenberg Ying & Yang](https://cvilleschools.onshape.com/documents/2ab7a38df7d5208ccd618aef/w/beba64fce6e7ec1388fe2998/e/bdeb1cd44200468047b4a1dc)
 - [志安](https://cvilleschools.onshape.com/documents/27b4753e7467629397baaf20/w/e345d744fa2b0125c1c10a95/e/bd2b7cdfb00b7aeabba79946)
 - [Constellation](https://cvilleschools.onshape.com/documents/27b4753e7467629397baaf20/w/e345d744fa2b0125c1c10a95/e/bd2b7cdfb00b7aeabba79946)
