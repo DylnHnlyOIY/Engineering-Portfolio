@@ -1,7 +1,7 @@
 # Dylan Hensley's Engineering Portfolio
 #### Here are some of the cool stuff that I've been working on.💡
 
-<details><summary> ⬅ Click On These To Preview</summary>
+<details><summary> ⬅ Click Me</summary>
 
 
 ## 3D Designs via Onshape <img src="Onshape.png" width="25">
