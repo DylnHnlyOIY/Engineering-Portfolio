@@ -186,7 +186,7 @@ These are some of the latest laser cutting and engraving experiments I've done. 
 ###### - dhnlyoiy@gmail.com
 ###### - dhensle63@charlottesvilleschools.org
 ###### - (510)387-1662
- <img src="" width="150">
+ <img src="Picture_1.jpg" width="150">
 
  
 
