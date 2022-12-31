@@ -182,5 +182,5 @@ These are some of the latest laser cutting and engraving experiments I've done. 
 
 
 ## Info
-<img src="Picture.jpg" width="2000">
+<img src="Picture.jpg" width="200">
 
