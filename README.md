@@ -181,6 +181,11 @@ These are some of the latest laser cutting and engraving experiments I've done. 
 - Cost Effective Prosthetics & Mobility Aids
 
 
-## Info
-<img src="Picture.jpg" width="185">
+## Contact Info
+<img src="Picture.jpg" width="125">
+
+ - dylnhnlyoiy@gmail.com
+ - dhensle63@charlottesvilleschools.org
+ - (510)387-1662
+ 
 
