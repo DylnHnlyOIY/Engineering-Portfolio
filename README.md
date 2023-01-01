@@ -1,5 +1,5 @@
 # Dylan Hensley's Engineering Portfolio
-#### Welcome to My Engineering Portfolio! Here are some of the cool stuff that I've been working on.💡
+#### Welcome to my Engineering Portfolio! Here are some of the cool stuff that I've been working on.💡
 
 <details><summary> ⬅ Click Me</summary>
 
@@ -11,7 +11,7 @@
 <img src="Doctor Who.png" width="900">
 
 ### Description
-Based on the iconic science-fiction show "[Doctor Who](https://www.doctorwho.tv)," I created these 3D models of my favorite Sonic Screwdrivers and the "T.A.R.D.I.S." as depicted. These were the outcomes of my transition from using [Solidworks](https://www.solidworks.com) to [Onshape](https://www.onshape.com/en/). I utilized this project to teach myself how to use a brand new C.A.D. Software, and to design things that I love.
+Based on the iconic science-fiction show "[Doctor Who](https://www.doctorwho.tv)," I created these 3D models of my favorite Sonic Screwdrivers and the "T.A.R.D.I.S.," as depicted. These were the outcomes of my transition from using [Solidworks](https://www.solidworks.com) to [Onshape](https://www.onshape.com/en/). I utilized this project to teach myself how to use a brand new C.A.D. Software and to design things that I love.
  
 ### Links
 - [TARDIS](https://cvilleschools.onshape.com/documents/2ab7a38df7d5208ccd618aef/w/beba64fce6e7ec1388fe2998/e/bdeb1cd44200468047b4a1dc)
@@ -51,7 +51,7 @@ A [Sphericon](https://www.instructables.com/3D-Printed-Sphereicon) is a three-di
 <img src="Snare Drum.png" width="900">
  
  ### Description
-This design is inspired by Blue Devils' "[System Blue](https://www.bluedevils.org/products/system-blue/)" snare drum. The aim was to create a to-scale replica of the drum as well as a trophy design. This project allowed me to use my test CAD ability (at the time) and ignited my interest in designing percussion instruments & tools.
+This design is inspired by Blue Devils' "[System Blue](https://www.bluedevils.org/products/system-blue/)" snare drum. The aim was to create a to-scale replica of the drum as well as a trophy design. This project allowed me to test my CAD ability (at the time) and ignited my interest in designing percussion instruments & tools.
 
 ### Links
 - [System Blue Snare Trophy](https://cvilleschools.onshape.com/documents/221b04262ae5d6cda3d83769/w/423a948d07c3116b4d8de6de/e/f6de8c8385a0bb81215d60f1)
@@ -66,7 +66,7 @@ ________________________________________________________________________________
 <img src="Snare Attachment.png" width="500">
  
 ### Description
-Many drummers across the world use Go Pro cameras to document their performances. Because I know many individuals who cannot afford to purchase a costly video recording gear, I created a Drum attachment that allows anyone to record a performance on their phone. The phone holder is angled similarly to a GoPro, allowing anyone to film a POV view of oneself performing without spending a fortune. V1 (the version displayed) is already being improved, with the camera being moved closer to the center and angle lower to show off more of the drum & hands of the player.
+Many drummers across the world use Go Pro cameras to document their performances. Because I know many individuals who cannot afford to purchase costly video recording gear, I created a drum attachment that allows anyone to record a performance on their phone. The phone mount is angled similarly to a GoPro, allowing anyone to film a POV view of oneself performing without spending a fortune. V1 (the version displayed) is already being improved, with the camera being moved closer to the center and angled lower to show off more of the drum & hands of the player.
 
 ### Links
 - [Phone Mount](https://cvilleschools.onshape.com/documents/a13c4770759a07f50d643601/w/ba4fcc164aff0949461ae9df/e/2820d4fc6e2450f7e846baa4)
@@ -149,7 +149,7 @@ void loop()
 </details>
 
 ### Description
-The purpose of this project was to construct a flex sensor operated Robotic Arm that could replicate an individual's hand motion. The user could wear a glove with the flex sensors connected, and the robotic arm would perform the same functions as the user. The concept was that when fully developed, it could be utilized for a variety of jobs like prosthetic use, long-distance surgery, handling dangerous chemicals, and so on.
+The purpose of this project was to construct a flex-sensor-operated robotic arm that could replicate an individual's hand motion. The user could wear a glove with the flex sensors connected and the robotic arm would perform the same functions as the user. The concept, when fully developed, could be utilized for a variety of jobs including prosthetic use, long-distance surgery, handling dangerous chemicals, and so on.
 
 ### Links
 - [Original Github Link](https://github.com/DylnH/Robotic-Hand)
@@ -161,7 +161,7 @@ The purpose of this project was to construct a flex sensor operated Robotic Arm 
 <img src="Laser Cutter.jpg" width="750">
  
  ### Description
-These are some of the latest laser cutting and engraving experiments I've done. These projects have pushed me to use my artistic side and to prioritize aesthetics above utility. By doing these, I was able to explore with different spray painting methods, Lichtenberg burning, and more sophisticated laser cutting techniques, which was a lot of fun. All of the pieces shown, were either gifted to someone else or purchased.
+These are some of the latest laser-cutting and engraving experiments I've done. These projects have pushed me to utilize my artistic side and to further merge aesthetics with utility. By doing these, I was able to explore with different spray painting methods, Lichtenberg burning, and more sophisticated laser cutting techniques, which was a lot of fun. All of the pieces shown, were either gifted to someone else or purchased.
 
 ### Links
 - [Lichtenberg Ying & Yang](https://cvilleschools.onshape.com/documents/2ab7a38df7d5208ccd618aef/w/beba64fce6e7ec1388fe2998/e/bdeb1cd44200468047b4a1dc)
