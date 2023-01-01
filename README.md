@@ -161,7 +161,7 @@ The purpose of this project was to construct a flex-sensor-operated robotic arm 
 <img src="Laser Cutter.jpg" width="750">
  
  ### Description
-These are some of the latest laser-cutting and engraving experiments I've done. These projects have pushed me to utilize my artistic side and to further merge aesthetics with utility. By doing these, I was able to explore with different spray painting methods, Lichtenberg burning, and more sophisticated laser cutting techniques, which was a lot of fun. All of the pieces shown, were either gifted to someone else or purchased.
+These are some of the latest laser-cutting and engraving experiments I've done. These projects have pushed me to utilize my artistic side and to prioritize aesthetics over utility. By doing these, I was able to explore different spray painting methods, Lichtenberg burning, and more sophisticated laser-cutting techniques, which was a lot of fun. All of the pieces shown, were either gifted to someone else or purchased.
 
 ### Links
 - [Lichtenberg Ying & Yang](https://cvilleschools.onshape.com/documents/2ab7a38df7d5208ccd618aef/w/beba64fce6e7ec1388fe2998/e/bdeb1cd44200468047b4a1dc)
