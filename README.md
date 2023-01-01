@@ -70,7 +70,7 @@ Many drummers across the world use Go Pro cameras to document their performances
 
 ### Links
 - [Phone Mount](https://cvilleschools.onshape.com/documents/a13c4770759a07f50d643601/w/ba4fcc164aff0949461ae9df/e/2820d4fc6e2450f7e846baa4)
-- [Test Video](https://youtu.be/9EmNJnOfamQ)
+- [Snare Playing Test Video](https://youtu.be/9EmNJnOfamQ)
  
  ________________________________________________________________________________________________________________________________________
  
@@ -153,7 +153,7 @@ The purpose of this project was to construct a flex sensor operated Robotic Arm 
 
 ### Links
 - [Original Github Link](https://github.com/DylnH/Robotic-Hand)
-- [Test Video]( https://youtu.be/bA-HL_byXRw)
+- [Robotic Hand Test Video]( https://youtu.be/bA-HL_byXRw)
  ________________________________________________________________________________________________________________________________________
  
 </details>
