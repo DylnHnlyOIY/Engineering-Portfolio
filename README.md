@@ -56,7 +56,7 @@ ________________________________________________________________________________
  
 </details>
 
-<details><summary>Onshape Certification</summary><img src="media/Onshape.png" width="25">
+<details><summary>Onshape Certification <img src="media/Onshape.png" width="25"></summary>
  
 <img src="media/Screenshot (3).png" width="600">
 
