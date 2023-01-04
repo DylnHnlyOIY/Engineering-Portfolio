@@ -32,6 +32,7 @@ ________________________________________________________________________________
 <img src="media/Sphericons.png" width="900">
  
 A [Sphericon](https://www.instructables.com/3D-Printed-Sphereicon) is a three-dimensional object with a continuous surface, two congruent semicircular edges, and four vertices defining a square. You may, however, experiment with the shape of a Sphericon and modify the number of vertices. This allows you to create a variety of fun and wacky variants.
+
  
  ### Links
 - [Modified Sphericon](https://cvilleschools.onshape.com/documents/25778600526ac8ae216fc98f/w/326e3f9e4728bfccb47eff6d/e/4421681a61ca46ae50616060)
