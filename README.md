@@ -42,7 +42,7 @@ A [Sphericon](https://www.instructables.com/3D-Printed-Sphereicon) is a three-di
  ________________________________________________________________________________________________________________________________________
  
 </details>
-<details><summary>Snare Drum Trophy & System Blue Replica <img src="media/snare drum small.png" width="10"></summary>
+<details><summary>Snare Drum Trophy & System Blue Replica <img src="media/snare drum small.png" width="20"></summary>
  
 <img src="media/Snare Drum.png" width="900">
  
@@ -73,7 +73,7 @@ ________________________________________________________________________________
 
 
 ## Most Recent Projects
-<details><summary>Snare Drum Phone & Camera Mount V1 <img src="phone mount.png" width="10"></summary>
+<details><summary>Snare Drum Phone & Camera Mount V1 <img src="media/phone mount.png" width="10"></summary>
 <img src="media/Snare Attachment.png" width="500">
  
 Many drummers across the world use Go Pro cameras to document their performances. Because I know many individuals who cannot afford to purchase costly video recording gear, I created a drum attachment that allows anyone to record a performance on their phone. The phone mount is angled similarly to a GoPro, allowing anyone to film a POV view of oneself performing without spending a fortune. V1 (the version displayed) is already being improved, with the camera being moved closer to the center and angled lower to show off more of the drum & hands of the player.
@@ -166,7 +166,7 @@ The purpose of this project was to construct a flex-sensor-operated robotic arm 
  ________________________________________________________________________________________________________________________________________
  
 </details>
-<details><summary>Laser Cutting, Etching & Lichtenberg burning <img src="burning.png" width="10"></summary>
+<details><summary>Laser Cutting, Etching & Lichtenberg burning <img src="media/burning.png" width="10"></summary>
 <img src="media/Laser Cutter.jpg" width="750">
  
 These are some of the latest laser-cutting and engraving experiments I've done. These projects have pushed me to utilize my artistic side and to prioritize aesthetics over utility. By doing these, I was able to explore different spray painting methods, Lichtenberg burning, and more sophisticated laser-cutting techniques, which was a lot of fun. All of the pieces shown, were either gifted to someone else or purchased.
