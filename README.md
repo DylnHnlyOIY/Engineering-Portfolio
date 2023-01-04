@@ -73,7 +73,7 @@ ________________________________________________________________________________
 
 
 ## Most Recent Projects
-<details><summary>Snare Drum Phone & Camera Attachment V1 📱🥁</summary>
+<details><summary>Snare Drum Phone & Camera Mount V1 📱🥁</summary>
 <img src="media/Snare Attachment.png" width="500">
  
 Many drummers across the world use Go Pro cameras to document their performances. Because I know many individuals who cannot afford to purchase costly video recording gear, I created a drum attachment that allows anyone to record a performance on their phone. The phone mount is angled similarly to a GoPro, allowing anyone to film a POV view of oneself performing without spending a fortune. V1 (the version displayed) is already being improved, with the camera being moved closer to the center and angled lower to show off more of the drum & hands of the player.
