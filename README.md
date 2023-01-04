@@ -56,6 +56,21 @@ ________________________________________________________________________________
  
 </details>
 
+<details><summary>Snare Drum Trophy & System Blue Replica 🥁</summary>
+ 
+<img src="media/Snare Drum.png" width="900">
+ 
+This design is inspired by Blue Devils' "[System Blue](https://www.bluedevils.org/products/system-blue/)" snare drum. The aim was to create a to-scale replica of the drum as well as a trophy design. This project allowed me to test my CAD ability (at the time) and ignited my interest in designing percussion instruments & tools.
+
+### Links
+- [System Blue Snare Trophy](https://cvilleschools.onshape.com/documents/221b04262ae5d6cda3d83769/w/423a948d07c3116b4d8de6de/e/f6de8c8385a0bb81215d60f1)
+- [Reference for Design]( https://systemblue.org/percussion/professional/)
+
+________________________________________________________________________________________________________________________________________
+ 
+</details>
+
+
 ## Most Recent Projects <img src="media/Gears.png" width="30">
 <details><summary>Snare Drum Phone & Camera Attachment V1 📱🥁</summary>
 <img src="media/Snare Attachment.png" width="500">
