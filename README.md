@@ -1,7 +1,5 @@
 # Dylan Hensley's Engineering Portfolio
-#### Welcome to my Engineering Portfolio! Here are some of the cool stuff that I've been working on.💡
-
-
+#### Welcome to my Engineering Portfolio! 
 
 ## 3D Designs via Onshape <img src="media/Onshape.png" width="25">
 
