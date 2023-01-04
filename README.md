@@ -58,7 +58,7 @@ ________________________________________________________________________________
 
 <details><summary>Onshape Certification</summary>
  
-<img src="media/Screenshot (3).png" width="900">
+<img src="media/Screenshot (3).png" width="500">
  
 This design is inspired by Blue Devils' "[System Blue](https://www.bluedevils.org/products/system-blue/)" snare drum. The aim was to create a to-scale replica of the drum as well as a trophy design. This project allowed me to test my CAD ability (at the time) and ignited my interest in designing percussion instruments & tools.
 
