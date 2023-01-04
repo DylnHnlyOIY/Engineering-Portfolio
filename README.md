@@ -1,7 +1,7 @@
 # Dylan Hensley's Engineering Portfolio
 ### Welcome to my Engineering Portfolio! These are a few of the projects I worked on throughout high school and in my spare time. With every project I complete, I make progress in my quest to improve as a CAD designer and Engineer. This portfolio displays my ability to use what I've learned both inside and outside the classroom, go beyond book smarts, and apply what I've learned to the real world.
 
-## 3D Designs via Onshape <img src="media/Onshape.png" width="25">
+## 3D Designs via Onshape
 
 <details><summary>Doctor Who Sonic Screwsdrivers <img src="media/DrWhoTARDIS.png" width="10"></summary>
 <img src="media/Doctor Who.png" width="900">
@@ -72,7 +72,7 @@ ________________________________________________________________________________
 </details>
 
 
-## Most Recent Projects <img src="media/Gears.png" width="30">
+## Most Recent Projects
 <details><summary>Snare Drum Phone & Camera Attachment V1 📱🥁</summary>
 <img src="media/Snare Attachment.png" width="500">
  
@@ -180,7 +180,7 @@ These are some of the latest laser-cutting and engraving experiments I've done. 
  
 </details>
  
-## Concepts I'd Like to Experiment With in the Future ⏰
+## Concepts I'd Like to Experiment With in the Future
 
 - Designing Drum Technology & Equipment
 - Utilitarian Art
