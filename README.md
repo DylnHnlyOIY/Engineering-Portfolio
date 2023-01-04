@@ -56,7 +56,7 @@ ________________________________________________________________________________
  
 </details>
 
-<details><summary>Snare Drum Trophy & System Blue Replica 🥁</summary>
+<details><summary>Onshape Certification</summary>
  
 <img src="media/Snare Drum.png" width="900">
  
