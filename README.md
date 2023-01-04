@@ -5,8 +5,8 @@
 
 ## 3D Designs via Onshape <img src="media/Onshape.png" width="25">
 
-<details><summary>Doctor Who Sonic Screwsdrivers <img src="DrWhoTARDIS.png" width="10"></summary>
-<img src="Doctor Who.png" width="900">
+<details><summary>Doctor Who Sonic Screwsdrivers <img src="media/DrWhoTARDIS.png" width="10"></summary>
+<img src="media/Doctor Who.png" width="900">
 
 Based on the iconic science-fiction show "[Doctor Who](https://www.doctorwho.tv)," I created these 3D models of my favorite Sonic Screwdrivers and the "T.A.R.D.I.S.," as depicted. These were the outcomes of my transition from using [Solidworks](https://www.solidworks.com) to [Onshape](https://www.onshape.com/en/). I utilized this project to teach myself how to use a brand new C.A.D. Software and to design things that I love.
  
@@ -28,8 +28,8 @@ Based on the iconic science-fiction show "[Doctor Who](https://www.doctorwho.tv)
 ________________________________________________________________________________________________________________________________________
 
 </details>
-<details><summary>Sphericons <img src="Sphericon2.png" width="15"></summary>
-<img src="Sphericons.png" width="900">
+<details><summary>Sphericons <img src="media/Sphericon2.png" width="15"></summary>
+<img src="media/Sphericons.png" width="900">
  
 A [Sphericon](https://www.instructables.com/3D-Printed-Sphereicon) is a three-dimensional object with a continuous surface, two congruent semicircular edges, and four vertices defining a square. You may, however, experiment with the shape of a Sphericon and modify the number of vertices. This allows you to create a variety of fun and wacky variants.
  
@@ -44,7 +44,7 @@ A [Sphericon](https://www.instructables.com/3D-Printed-Sphereicon) is a three-di
 </details>
 <details><summary>Snare Drum Trophy & System Blue Replica 🥁</summary>
  
-<img src="Snare Drum.png" width="900">
+<img src="media/Snare Drum.png" width="900">
  
 This design is inspired by Blue Devils' "[System Blue](https://www.bluedevils.org/products/system-blue/)" snare drum. The aim was to create a to-scale replica of the drum as well as a trophy design. This project allowed me to test my CAD ability (at the time) and ignited my interest in designing percussion instruments & tools.
 
@@ -56,7 +56,7 @@ ________________________________________________________________________________
  
 </details>
 
-## Most Recent Projects <img src="Gears.png" width="30">
+## Most Recent Projects <img src="media/Gears.png" width="30">
 <details><summary>Snare Drum Phone & Camera Attachment V1 📱🥁</summary>
 <img src="Snare Attachment.png" width="500">
  
@@ -151,7 +151,7 @@ The purpose of this project was to construct a flex-sensor-operated robotic arm 
  
 </details>
 <details><summary>Laser Cutting, Etching & Lichtenberg burning ⚡</summary>
-<img src="Laser Cutter.jpg" width="750">
+<img src="media/Laser Cutter.jpg" width="750">
  
 These are some of the latest laser-cutting and engraving experiments I've done. These projects have pushed me to utilize my artistic side and to prioritize aesthetics over utility. By doing these, I was able to explore different spray painting methods, Lichtenberg burning, and more sophisticated laser-cutting techniques, which was a lot of fun. All of the pieces shown, were either gifted to someone else or purchased.
 
