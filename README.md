@@ -58,13 +58,13 @@ ________________________________________________________________________________
 
 <details><summary>Onshape Certification</summary>
  
-<img src="media/Screenshot (3).png" width="500">
- 
-This design is inspired by Blue Devils' "[System Blue](https://www.bluedevils.org/products/system-blue/)" snare drum. The aim was to create a to-scale replica of the drum as well as a trophy design. This project allowed me to test my CAD ability (at the time) and ignited my interest in designing percussion instruments & tools.
+<img src="media/Screenshot (3).png" width="600">
+
+ The Onshape Certification, according to Onshape, attests to a user's expertise in data management and modeling techniques using Onshape.  Not only does this demonstrate CAD proficiency, but with this certification, I can reasonably apply for CAD modeling jobs without a college degree, with a great chance of getting hired. My status as a Certified Onshape Associate makes me very proud of myself and the people who helped me achieve this..
 
 ### Links
-- [System Blue Snare Trophy](https://cvilleschools.onshape.com/documents/221b04262ae5d6cda3d83769/w/423a948d07c3116b4d8de6de/e/f6de8c8385a0bb81215d60f1)
-- [Reference for Design]( https://systemblue.org/percussion/professional/)
+- [Onshape](https://learn.onshape.com/)
+- [Onshape Exam](https://learn.onshape.com/courses/certified-onshape-professional)
 
 ________________________________________________________________________________________________________________________________________
  
