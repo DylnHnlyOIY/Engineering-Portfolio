@@ -1,5 +1,5 @@
 # Dylan Hensley's Engineering Portfolio
-### Welcome to my Engineering Portfolio! These are a few of the projects I worked on throughout high school and in my spare time. With every project I complete, I make progress in my quest to improve as a CAD designer and Engineer. This portfolio displays my ability to use what I've learned both inside and outside the classroom, go beyond book smarts, and apply what I've learned to the real world. 
+### Welcome to my Engineering Portfolio! These are a few of the projects I worked on throughout high school and in my spare time. With every project I complete, I make progress in my quest to improve as a CAD designer and Engineer. This portfolio displays my ability to use what I've learned both inside and outside the classroom, go beyond book smarts, and apply what I've learned to the real world.
 
 ## 3D Designs via Onshape <img src="media/Onshape.png" width="25">
 
