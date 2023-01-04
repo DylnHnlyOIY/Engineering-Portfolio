@@ -9,7 +9,6 @@
 <details><summary>Doctor Who Sonic Screwsdrivers <img src="DrWhoTARDIS.png" width="10"></summary>
 <img src="Doctor Who.png" width="900">
 
-### Description
 Based on the iconic science-fiction show "[Doctor Who](https://www.doctorwho.tv)," I created these 3D models of my favorite Sonic Screwdrivers and the "T.A.R.D.I.S.," as depicted. These were the outcomes of my transition from using [Solidworks](https://www.solidworks.com) to [Onshape](https://www.onshape.com/en/). I utilized this project to teach myself how to use a brand new C.A.D. Software and to design things that I love.
  
 ### Links
@@ -33,7 +32,6 @@ ________________________________________________________________________________
 <details><summary>Sphericons <img src="Sphericon2.png" width="15"></summary>
 <img src="Sphericons.png" width="900">
  
- ### Description
 A [Sphericon](https://www.instructables.com/3D-Printed-Sphereicon) is a three-dimensional object with a continuous surface, two congruent semicircular edges, and four vertices defining a square. You may, however, experiment with the shape of a Sphericon and modify the number of vertices. This allows you to create a variety of fun and wacky variants.
  
  ### Links
@@ -49,7 +47,6 @@ A [Sphericon](https://www.instructables.com/3D-Printed-Sphereicon) is a three-di
  
 <img src="Snare Drum.png" width="900">
  
- ### Description
 This design is inspired by Blue Devils' "[System Blue](https://www.bluedevils.org/products/system-blue/)" snare drum. The aim was to create a to-scale replica of the drum as well as a trophy design. This project allowed me to test my CAD ability (at the time) and ignited my interest in designing percussion instruments & tools.
 
 ### Links
@@ -64,7 +61,6 @@ ________________________________________________________________________________
 <details><summary>Snare Drum Phone & Camera Attachment V1 📱🥁</summary>
 <img src="Snare Attachment.png" width="500">
  
-### Description
 Many drummers across the world use Go Pro cameras to document their performances. Because I know many individuals who cannot afford to purchase costly video recording gear, I created a drum attachment that allows anyone to record a performance on their phone. The phone mount is angled similarly to a GoPro, allowing anyone to film a POV view of oneself performing without spending a fortune. V1 (the version displayed) is already being improved, with the camera being moved closer to the center and angled lower to show off more of the drum & hands of the player.
 
 ### Links
@@ -147,7 +143,6 @@ void loop()
 ```
 </details>
 
-### Description
 The purpose of this project was to construct a flex-sensor-operated robotic arm that could replicate an individual's hand motion. The user could wear a glove with the flex sensors connected and the robotic arm would perform the same functions as the user. The concept, when fully developed, could be utilized for a variety of jobs including prosthetic use, long-distance surgery, handling dangerous chemicals, and so on.
 
 ### Links
@@ -159,7 +154,6 @@ The purpose of this project was to construct a flex-sensor-operated robotic arm 
 <details><summary>Laser Cutting, Etching & Lichtenberg burning ⚡</summary>
 <img src="Laser Cutter.jpg" width="750">
  
- ### Description
 These are some of the latest laser-cutting and engraving experiments I've done. These projects have pushed me to utilize my artistic side and to prioritize aesthetics over utility. By doing these, I was able to explore different spray painting methods, Lichtenberg burning, and more sophisticated laser-cutting techniques, which was a lot of fun. All of the pieces shown, were either gifted to someone else or purchased.
 
 ### Links
@@ -183,5 +177,5 @@ These are some of the latest laser-cutting and engraving experiments I've done. 
 ## Contact Info
  
 ###### - dhnlyoiy@gmail.com
-###### - dhensle63@charlottesvilleschools.org
+###### - dhensle63@charlottesvilleschools.org (No longer available Jun 3rd)
 ###### - (510)387-1662
