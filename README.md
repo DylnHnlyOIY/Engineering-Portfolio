@@ -4,7 +4,6 @@
 
 
 ## 3D Designs via Onshape <img src="Onshape.png" width="25">
-https://github.com/DylnHnlyOIY/Engineering-Portfolio/blob/main/media/Doctor%20Who.png
 
 <details><summary>Doctor Who Sonic Screwsdrivers <img src="DrWhoTARDIS.png" width="10"></summary>
 <img src="Doctor Who.png" width="900">
