@@ -166,7 +166,7 @@ The purpose of this project was to construct a flex-sensor-operated robotic arm 
  ________________________________________________________________________________________________________________________________________
  
 </details>
-<details><summary>Laser Cutting, Etching & Lichtenberg burning <img src="media/burning.jpg" width="15"></summary>
+<details><summary>Laser Cutting, Etching & Lichtenberg burning <img src="media/burning.jpg" width="17"></summary>
 <img src="media/Laser Cutter.jpg" width="750">
  
 These are some of the latest laser-cutting and engraving experiments I've done. These projects have pushed me to utilize my artistic side and to prioritize aesthetics over utility. By doing these, I was able to explore different spray painting methods, Lichtenberg burning, and more sophisticated laser-cutting techniques, which was a lot of fun. All of the pieces shown, were either gifted to someone else or purchased.
