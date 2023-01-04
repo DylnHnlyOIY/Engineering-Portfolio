@@ -60,7 +60,7 @@ ________________________________________________________________________________
  
 <img src="media/Screenshot (3).png" width="600">
 
- The Onshape Certification, according to Onshape, attests to a user's expertise in data management and modeling techniques using Onshape.  Not only does this demonstrate CAD proficiency, but with this certification, I can reasonably apply for CAD modeling jobs without a college degree, with a great chance of getting hired. My status as a Certified Onshape Associate makes me very proud of myself and the people who helped me achieve this..
+The Onshape Certification, according to Onshape, attests to a user's expertise in data management and modeling techniques using Onshape.  Not only does this demonstrate CAD proficiency, but with this certification, I can reasonably apply for CAD modeling jobs without a college degree, with a great chance of getting hired. My status as a Certified Onshape Associate makes me very proud of myself and the people who helped me achieve this.
 
 ### Links
 - [Onshape](https://learn.onshape.com/)
