@@ -158,7 +158,7 @@ void loop()
 ```
 </details>
 
-The purpose of this project was to construct a flex-sensor-operated robotic arm that could replicate an individual's hand motion. The user could wear a glove with the flex sensors connected and the robotic arm would perform the same functions as the user. The concept, when fully developed, could be utilized for a variety of jobs including prosthetic use, long-distance surgery, handling dangerous chemicals, and so on.
+The purpose of this project was to construct a flex-sensor-operated robotic arm that could replicate an individual's hand motion. The user could wear a glove with the flex sensors connected and the robotic arm would perform the same functions as the user. The concept, when fully developed, could be utilized for a variety of jobs including prosthetic use, long-distance surgery, handling dangerous chemicals, and so on. This was one of the first times working with another individual, and it was so much fun to colaborlate. I hope to engage in similar collaborative projects in the future.
 
 ### Links
 - [Original Github Link](https://github.com/DylnH/Robotic-Hand)
