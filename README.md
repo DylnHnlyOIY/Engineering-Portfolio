@@ -87,9 +87,7 @@ Many drummers across the world use Go Pro cameras to document their performances
 </details>
 <details><summary>Robotic Arm w/ Flex Sencors 🦾</summary>
 <img src="media/Robotic Arm.png" width="500">
-<details><summary>Robotic Arm Code & C.A.D.</summary>
-
-[Robotic Arm Design](https://cvilleschools.onshape.com/documents/e2edc0296736b251a4e3fe74/w/817a81a4a4728dc8bb2cad43/e/76581a513e1b4ba1cefbcda2)
+<details><summary>Robotic Arm Code</summary>
 
 ``` arduino
 #include <Servo.h> // HEY!!!... here's a servo
@@ -162,6 +160,7 @@ The purpose of this project was to construct a flex-sensor-operated robotic arm 
 
 ### Links
 - [Original Github Link](https://github.com/DylnH/Robotic-Hand)
+- [Robotic Arm Design](https://cvilleschools.onshape.com/documents/e2edc0296736b251a4e3fe74/w/817a81a4a4728dc8bb2cad43/e/76581a513e1b4ba1cefbcda2)
 - [Robotic Hand Test Video]( https://youtu.be/bA-HL_byXRw)
  ________________________________________________________________________________________________________________________________________
  
