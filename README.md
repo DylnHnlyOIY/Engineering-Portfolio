@@ -65,7 +65,7 @@ The Onshape Certification, according to Onshape, attests to a user's expertise i
 
 ### Links
 - [Onshape](https://learn.onshape.com/)
-- [Onshape Exam](https://learn.onshape.com/courses/certified-onshape-professional)
+- [Onshape Exam](https://learn.onshape.com/courses/certified-onshape-associate)
 
 ________________________________________________________________________________________________________________________________________
  
