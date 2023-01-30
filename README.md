@@ -190,6 +190,6 @@ These are some of the latest laser-cutting and engraving experiments I've done. 
 
 ## Contact Info
  
-###### - dhnlyoiy@gmail.com
+###### - dylnhnlyoiy@gmail.com
 ###### - dhensle63@charlottesvilleschools.org (No longer available Jun 3rd)
 ###### - (510)387-1662
